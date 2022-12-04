@@ -1,0 +1,19 @@
+/* GLOBAL STYLES */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /*https://css-tricks.com/box-sizing/*/
+  
+  /* 1 rem = 10px */
+  html {
+    font-size: 62.5%;
+  }
+  
+  body {
+  }
+
+  h1{
+    
+  }
